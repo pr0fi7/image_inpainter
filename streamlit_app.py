@@ -10,7 +10,7 @@ import json
 class Item(BaseModel):
     text: str
 
-base_url = "https://f290-34-16-157-66.ngrok-free.app/"
+base_url = "https://f290-34-16-157-66.ngrok-free.app/" #has to be updated after each start of api
 
 img_file_buffer = st.camera_input('take a picture')
 prompt = st.text_input('Enter your prompt')
