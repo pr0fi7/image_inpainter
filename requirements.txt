@@ -1,0 +1,7 @@
+accelerate==0.30.0
+opencv-python-headless==4.9.0.80
+diffusers==0.27.2
+torch==1.10.0+cu121
+mediapipe==0.10.13
+protobuf==4.25.3
+sounddevice==0.4.6
