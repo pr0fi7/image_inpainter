@@ -7,3 +7,9 @@ protobuf==4.25.3
 sounddevice==0.4.6
 safetensors
 transformers
+pillow
+pyngrok
+uvicorn
+nest_asyncio
+pydantic
+requests
