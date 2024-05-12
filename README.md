@@ -2,7 +2,7 @@
 
 Welcome to the Background Inpainting App repository!
 
-This repository contains an app that changes the background of an image according to your prompt while keeping the face unchanged. The app is built using Streamlit and utilizes stable_diffusion for processing. You can use different servers for deployment depending on your preference and available resources. You can try the app on your own [here](https://huggingface.co/spaces/pr0fi7/face_inpainter). It takes some time to build it, so be patient;). Don't forget that it is as of now strictly inpainter so it can produce an image only after taking a picture. 
+This repository contains an app that changes the background of an image according to your prompt while keeping the face unchanged. The app is built using Streamlit and utilizes stable_diffusion for processing. You can use different servers for deployment depending on your preference and available resources. YOU CAN TRY THE APP [HERE](https://huggingface.co/spaces/pr0fi7/face_inpainter). It takes some time to build it, so be patient;). Don't forget that it is as of now strictly inpainter so it can produce an image only after taking a picture. 
 
 ## Files
 
